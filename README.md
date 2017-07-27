@@ -1,3 +1,9 @@
+## IMPORTANT NOTE ##
+
+The file size of the APT representations used in the paper is too large to host them on GitHub.
+
+Please email the first author of the paper (either using the email address on this GitHub repository or the email address in the paper) if you would like to have them.
+
 ## Dependencies
 	
 The code relies on several 3rd party libraries:
